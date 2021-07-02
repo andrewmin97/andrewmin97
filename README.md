@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! I'm Andrew and welcome to my github 👋
 
-<!--
-**andrewkang1106/andrewkang1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent grad of NYU w/ a degree in CS who loves tech!
 
-Here are some ideas to get you started:
+* Currently learning Swift through Hacking With Swift
+    * Check out my progress on [Twitter](https://twitter.com/SweMint "Named link title")
+    * Skill Mastery
+       - [ ] Swift (In Progress)
+       - [ ] Swift UI
+       - [ ] Working w/ data
+       - [ ] Networking
+       - [ ] Version Control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
